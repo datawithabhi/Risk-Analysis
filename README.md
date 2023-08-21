@@ -12,6 +12,9 @@ The project revolves around a consumer finance company specializing in providing
 
 The dataset used for this analysis is sourced from past loan applicants, containing information about their attributes and whether they defaulted on the loan. The data includes various attributes such as loan amount, term, interest rate, grade, employment length, home ownership, annual income, verification status, loan status, purpose, debt-to-income ratio, and more.
 
+The dataset used in this analysis can be accessed from the following link:
+[Kaggle Loan Dataset](https://www.kaggle.com/datasets/abhiganeshkar/loan-dataset?select=loan.csv)
+
 ## Exploratory Data Analysis (EDA)
 
 The EDA process involves the following key steps:
